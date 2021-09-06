@@ -11,7 +11,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Tommaselli&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Languages and Tools:
+### Languages and Tools:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -20,15 +20,10 @@
 
 </div>
 
-
-
 ##
  
+![Snake animation](https://github.com/Felipe-Tommaselli/Felipe-Tommaselli/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/Felipe-Tommaselli/blob/output/github-contribution-grid-snake.svg)
-
-
-##
 <div>
     <a href = "mailto:f.tommaselli@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-tommaselli-385a9b1a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
