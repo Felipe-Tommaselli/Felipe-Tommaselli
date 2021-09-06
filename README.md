@@ -25,10 +25,10 @@
 ![Snake animation](https://github.com/Felipe-Tommaselli/Felipe-Tommaselli/blob/output/github-contribution-grid-snake.svg)
 
 <div>
-    <a href = "mailto:f.tommaselli@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-tommaselli-385a9b1a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "https://open.spotify.com/user/felps_garcia?si=db2d2aee28d2426f"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  <a href = "mailto:f.tommaselli@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-tommaselli-385a9b1a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/felipe_tommaselli/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+  <a href = "https://open.spotify.com/user/felps_garcia?si=db2d2aee28d2426f"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 <div>
-
 
 [NRA-Programacao]: https://github.com/NRA-Programacao "NRA, Grupo SEMEAR - EESC/USP"
