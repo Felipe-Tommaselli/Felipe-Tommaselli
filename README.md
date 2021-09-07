@@ -4,6 +4,7 @@
 - 🏫 Graduating in electrical engineering at EESC-USP
 - 🤖 I’m currently part of **[NRA-Programacao]**
 - 🌱 Seeking to expand my knowledge in new technologies
+- 🚀 Currently fascinated about learning Artificial Intelligence and its applications
 
 <div>
     <a href="https://github.com/Felipe-Tommaselli">
