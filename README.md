@@ -2,7 +2,7 @@
 
 
 - 🏫 Graduating in electrical engineering at EESC-USP
-- 🤖 I’m currently part of **[NRA-Programacao]**
+- 🤖 I’m currently part of **[Grupo SEMEAR]**
 - 🌱 Seeking to expand my knowledge in new technologies
 - 🚀 Currently fascinated about learning Artificial Intelligence and its applications
 
@@ -35,3 +35,5 @@
 <div>
 
 [NRA-Programacao]: https://github.com/NRA-Programacao "NRA, Grupo SEMEAR - EESC/USP"
+    
+[Grupo SEMEAR]: https://github.com/Grupo-SEMEAR-USP "Grupo SEMEAR - EESC/USP"
