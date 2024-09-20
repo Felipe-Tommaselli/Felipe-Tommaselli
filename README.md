@@ -1,7 +1,7 @@
 # Hi there, I'm Felipe Tommaselli 🤝
 
 
-- ⚡ Graduating in electrical engineering at EESC-USP
+- ⚡ Graduating in electrical and computer engineering at EESC-USP
 - 🤖 I’m currently part of **[Grupo SEMEAR]**
 - 🌱 Seeking to expand my knowledge in new technologies
 - 🚀 Currently fascinated about learning Artificial Intelligence and its applications
