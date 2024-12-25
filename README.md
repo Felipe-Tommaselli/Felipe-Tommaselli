@@ -2,9 +2,9 @@
 
 
 - ⚡ Graduating in electrical and computer engineering at EESC-USP
-- 🤖 I’m currently part of **[Grupo SEMEAR]**
+- 🤖 I’m currently part of **[[Cloudwalk Inc]](https://github.com/cloudwalk)**
 - 🌱 Seeking to expand my knowledge in new technologies
-- 🚀 Currently fascinated about learning Artificial Intelligence and its applications
+- 🚀 Currently fascinated about learning Reinforcement Learning and its applications
 
 <div>
     <a href="https://github.com/Felipe-Tommaselli">
