@@ -2,7 +2,7 @@
 
 
 - ⚡ Graduating in electrical and computer engineering at EESC-USP
-- 🤖 I’m currently part of **[[Cloudwalk Inc]](https://github.com/cloudwalk)**
+- 🤖 I’m currently Prompt Engineer of **[[Cloudwalk Inc]](https://github.com/cloudwalk)**
 - 🌱 Seeking to expand my knowledge in new technologies
 - 🚀 Currently fascinated about learning Reinforcement Learning and its applications
 
