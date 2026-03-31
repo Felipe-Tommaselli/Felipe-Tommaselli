@@ -3,11 +3,11 @@
 - PhD Student @ University of São Paulo
 - Researcher in Robots Learning
 
-<div>
+<!-- <div>
     <a href="https://github.com/Felipe-Tommaselli">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Tommaselli&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Tommaselli&layout=compact&langs_count=7&theme=apprentice"/>
-</div>
+</div> -->
 
  ---
  
